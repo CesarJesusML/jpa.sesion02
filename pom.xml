@@ -4,7 +4,7 @@
   <artifactId>jpa_sesion02x</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>ciberfarma</name>
-  <description>jpa con maven controlado con GIT</description>
+  <description>jpa con maven integrado con GIT</description>
   <dependencies>
   	<dependency>
   	  	<groupId>com.mysql</groupId>
